@@ -1,0 +1,33 @@
+{
+  "name": "express-restapi",
+  "version": "1.0.0",
+  "description": "Boiletplate example of a Express Rest API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NTMNathan/express-restapi.git"
+  },
+  "keywords": [
+    "api",
+    "express",
+    "simple",
+    "example",
+    "expressjs",
+    "restapi",
+    "rest-api",
+    "rest",
+    "rest-api-example"
+  ],
+  "author": "NTM Nathan#0001",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NTMNathan/express-restapi/issues"
+  },
+  "homepage": "https://github.com/NTMNathan/express-restapi#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
